@@ -13,6 +13,17 @@
 }
 
 @font-face {
+  font-family: "XiaolaiMonoSC";
+  src: url("XiaolaiMonoSC-Regular.ttf");
+  font-display: swap;
+}
+@font-face {
+  font-family: "XiaolaiSC";
+  src: url("XiaolaiSC-Regular.ttf");
+  font-display: swap;
+}
+
+@font-face {
   font-family: "Assistant";
   src: url("Assistant-Regular.woff2");
   font-display: swap;
